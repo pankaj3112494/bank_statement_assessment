@@ -1,0 +1,35 @@
+description,category
+NEFT Acme payroll salary,Salary
+IMPS monthly wages payout,Salary
+UPI to Rohan,Transfer
+IMPS transfer to sister,Transfer
+NEFT to Ajay,Transfer
+ATM cash withdrawal terminal,Cash withdrawal
+CASH WDL branch,Cash withdrawal
+UPI Freshmart grocery,Groceries
+POS supermarket milk,Groceries
+Bigbasket card purchase,Groceries
+UPI Cafe Mosaic,Food & dining
+CARD Zomato order,Food & dining
+Restaurant lunch,Food & dining
+UPI electricity bill,Utilities
+Broadband payment,Utilities
+Water bill payment,Utilities
+UPI Amazon marketplace,Shopping
+Flipkart card purchase,Shopping
+Fashion retail outlet,Shopping
+UPI Uber ride,Transport
+Petrol pump QR payment,Transport
+Metro ticket,Transport
+UPI monthly rent,Rent
+House lease payment,Rent
+Bank service fee,Fees & charges
+Annual card fee,Fees & charges
+Savings interest credited,Interest
+INT. PAID,Interest
+UPI clinic consultation,Healthcare
+Pharmacy order,Healthcare
+Apollo medical store,Healthcare
+UPI ABCD 92831,Review
+IMPS 887766,Review
+Refund from vendor,Review

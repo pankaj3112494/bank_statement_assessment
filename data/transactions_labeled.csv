@@ -1,0 +1,289 @@
+description,category,merchant_group
+POS Acme payroll,Salary,Acme payroll
+CARD Acme payroll,Salary,Acme payroll
+ONLINE Acme payroll,Salary,Acme payroll
+TXN Acme payroll,Salary,Acme payroll
+POS Northstar salary,Salary,Northstar salary
+CARD Northstar salary,Salary,Northstar salary
+ONLINE Northstar salary,Salary,Northstar salary
+TXN Northstar salary,Salary,Northstar salary
+POS Orbit wages,Salary,Orbit wages
+CARD Orbit wages,Salary,Orbit wages
+ONLINE Orbit wages,Salary,Orbit wages
+TXN Orbit wages,Salary,Orbit wages
+POS Brightline payroll,Salary,Brightline payroll
+CARD Brightline payroll,Salary,Brightline payroll
+ONLINE Brightline payroll,Salary,Brightline payroll
+TXN Brightline payroll,Salary,Brightline payroll
+POS Studio salary,Salary,Studio salary
+CARD Studio salary,Salary,Studio salary
+ONLINE Studio salary,Salary,Studio salary
+TXN Studio salary,Salary,Studio salary
+POS Delta payroll,Salary,Delta payroll
+CARD Delta payroll,Salary,Delta payroll
+ONLINE Delta payroll,Salary,Delta payroll
+TXN Delta payroll,Salary,Delta payroll
+POS UPI transfer,Transfer,UPI transfer
+CARD UPI transfer,Transfer,UPI transfer
+ONLINE UPI transfer,Transfer,UPI transfer
+TXN UPI transfer,Transfer,UPI transfer
+POS NEFT transfer,Transfer,NEFT transfer
+CARD NEFT transfer,Transfer,NEFT transfer
+ONLINE NEFT transfer,Transfer,NEFT transfer
+TXN NEFT transfer,Transfer,NEFT transfer
+POS IMPS transfer,Transfer,IMPS transfer
+CARD IMPS transfer,Transfer,IMPS transfer
+ONLINE IMPS transfer,Transfer,IMPS transfer
+TXN IMPS transfer,Transfer,IMPS transfer
+POS RTGS transfer,Transfer,RTGS transfer
+CARD RTGS transfer,Transfer,RTGS transfer
+ONLINE RTGS transfer,Transfer,RTGS transfer
+TXN RTGS transfer,Transfer,RTGS transfer
+POS fund transfer,Transfer,fund transfer
+CARD fund transfer,Transfer,fund transfer
+ONLINE fund transfer,Transfer,fund transfer
+TXN fund transfer,Transfer,fund transfer
+POS mobile transfer,Transfer,mobile transfer
+CARD mobile transfer,Transfer,mobile transfer
+ONLINE mobile transfer,Transfer,mobile transfer
+TXN mobile transfer,Transfer,mobile transfer
+POS ATM cash withdrawal,Cash withdrawal,ATM cash withdrawal
+CARD ATM cash withdrawal,Cash withdrawal,ATM cash withdrawal
+ONLINE ATM cash withdrawal,Cash withdrawal,ATM cash withdrawal
+TXN ATM cash withdrawal,Cash withdrawal,ATM cash withdrawal
+POS cash wdl kiosk,Cash withdrawal,cash wdl kiosk
+CARD cash wdl kiosk,Cash withdrawal,cash wdl kiosk
+ONLINE cash wdl kiosk,Cash withdrawal,cash wdl kiosk
+TXN cash wdl kiosk,Cash withdrawal,cash wdl kiosk
+POS ATM terminal,Cash withdrawal,ATM terminal
+CARD ATM terminal,Cash withdrawal,ATM terminal
+ONLINE ATM terminal,Cash withdrawal,ATM terminal
+TXN ATM terminal,Cash withdrawal,ATM terminal
+POS cash withdrawal branch,Cash withdrawal,cash withdrawal branch
+CARD cash withdrawal branch,Cash withdrawal,cash withdrawal branch
+ONLINE cash withdrawal branch,Cash withdrawal,cash withdrawal branch
+TXN cash withdrawal branch,Cash withdrawal,cash withdrawal branch
+POS ATM debit,Cash withdrawal,ATM debit
+CARD ATM debit,Cash withdrawal,ATM debit
+ONLINE ATM debit,Cash withdrawal,ATM debit
+TXN ATM debit,Cash withdrawal,ATM debit
+POS cash wdl,Cash withdrawal,cash wdl
+CARD cash wdl,Cash withdrawal,cash wdl
+ONLINE cash wdl,Cash withdrawal,cash wdl
+TXN cash wdl,Cash withdrawal,cash wdl
+POS Freshmart grocery,Groceries,Freshmart grocery
+CARD Freshmart grocery,Groceries,Freshmart grocery
+ONLINE Freshmart grocery,Groceries,Freshmart grocery
+TXN Freshmart grocery,Groceries,Freshmart grocery
+POS Bigbasket grocery,Groceries,Bigbasket grocery
+CARD Bigbasket grocery,Groceries,Bigbasket grocery
+ONLINE Bigbasket grocery,Groceries,Bigbasket grocery
+TXN Bigbasket grocery,Groceries,Bigbasket grocery
+POS supermarket purchase,Groceries,supermarket purchase
+CARD supermarket purchase,Groceries,supermarket purchase
+ONLINE supermarket purchase,Groceries,supermarket purchase
+TXN supermarket purchase,Groceries,supermarket purchase
+POS Green Basket grocery,Groceries,Green Basket grocery
+CARD Green Basket grocery,Groceries,Green Basket grocery
+ONLINE Green Basket grocery,Groceries,Green Basket grocery
+TXN Green Basket grocery,Groceries,Green Basket grocery
+POS Daily Foods grocery,Groceries,Daily Foods grocery
+CARD Daily Foods grocery,Groceries,Daily Foods grocery
+ONLINE Daily Foods grocery,Groceries,Daily Foods grocery
+TXN Daily Foods grocery,Groceries,Daily Foods grocery
+POS Corner grocery,Groceries,Corner grocery
+CARD Corner grocery,Groceries,Corner grocery
+ONLINE Corner grocery,Groceries,Corner grocery
+TXN Corner grocery,Groceries,Corner grocery
+POS Cafe Mosaic,Food & dining,Cafe Mosaic
+CARD Cafe Mosaic,Food & dining,Cafe Mosaic
+ONLINE Cafe Mosaic,Food & dining,Cafe Mosaic
+TXN Cafe Mosaic,Food & dining,Cafe Mosaic
+POS Zomato order,Food & dining,Zomato order
+CARD Zomato order,Food & dining,Zomato order
+ONLINE Zomato order,Food & dining,Zomato order
+TXN Zomato order,Food & dining,Zomato order
+POS Swiggy order,Food & dining,Swiggy order
+CARD Swiggy order,Food & dining,Swiggy order
+ONLINE Swiggy order,Food & dining,Swiggy order
+TXN Swiggy order,Food & dining,Swiggy order
+POS restaurant bill,Food & dining,restaurant bill
+CARD restaurant bill,Food & dining,restaurant bill
+ONLINE restaurant bill,Food & dining,restaurant bill
+TXN restaurant bill,Food & dining,restaurant bill
+POS dining purchase,Food & dining,dining purchase
+CARD dining purchase,Food & dining,dining purchase
+ONLINE dining purchase,Food & dining,dining purchase
+TXN dining purchase,Food & dining,dining purchase
+POS Harbor Cafe,Food & dining,Harbor Cafe
+CARD Harbor Cafe,Food & dining,Harbor Cafe
+ONLINE Harbor Cafe,Food & dining,Harbor Cafe
+TXN Harbor Cafe,Food & dining,Harbor Cafe
+POS electricity bill,Utilities,electricity bill
+CARD electricity bill,Utilities,electricity bill
+ONLINE electricity bill,Utilities,electricity bill
+TXN electricity bill,Utilities,electricity bill
+POS water bill,Utilities,water bill
+CARD water bill,Utilities,water bill
+ONLINE water bill,Utilities,water bill
+TXN water bill,Utilities,water bill
+POS gas bill,Utilities,gas bill
+CARD gas bill,Utilities,gas bill
+ONLINE gas bill,Utilities,gas bill
+TXN gas bill,Utilities,gas bill
+POS broadband payment,Utilities,broadband payment
+CARD broadband payment,Utilities,broadband payment
+ONLINE broadband payment,Utilities,broadband payment
+TXN broadband payment,Utilities,broadband payment
+POS internet bill,Utilities,internet bill
+CARD internet bill,Utilities,internet bill
+ONLINE internet bill,Utilities,internet bill
+TXN internet bill,Utilities,internet bill
+POS utility payment,Utilities,utility payment
+CARD utility payment,Utilities,utility payment
+ONLINE utility payment,Utilities,utility payment
+TXN utility payment,Utilities,utility payment
+POS Amazon marketplace,Shopping,Amazon marketplace
+CARD Amazon marketplace,Shopping,Amazon marketplace
+ONLINE Amazon marketplace,Shopping,Amazon marketplace
+TXN Amazon marketplace,Shopping,Amazon marketplace
+POS Flipkart order,Shopping,Flipkart order
+CARD Flipkart order,Shopping,Flipkart order
+ONLINE Flipkart order,Shopping,Flipkart order
+TXN Flipkart order,Shopping,Flipkart order
+POS retail purchase,Shopping,retail purchase
+CARD retail purchase,Shopping,retail purchase
+ONLINE retail purchase,Shopping,retail purchase
+TXN retail purchase,Shopping,retail purchase
+POS fashion store,Shopping,fashion store
+CARD fashion store,Shopping,fashion store
+ONLINE fashion store,Shopping,fashion store
+TXN fashion store,Shopping,fashion store
+POS shopping mall,Shopping,shopping mall
+CARD shopping mall,Shopping,shopping mall
+ONLINE shopping mall,Shopping,shopping mall
+TXN shopping mall,Shopping,shopping mall
+POS online shopping,Shopping,online shopping
+CARD online shopping,Shopping,online shopping
+ONLINE online shopping,Shopping,online shopping
+TXN online shopping,Shopping,online shopping
+POS Uber ride,Transport,Uber ride
+CARD Uber ride,Transport,Uber ride
+ONLINE Uber ride,Transport,Uber ride
+TXN Uber ride,Transport,Uber ride
+POS Ola cab,Transport,Ola cab
+CARD Ola cab,Transport,Ola cab
+ONLINE Ola cab,Transport,Ola cab
+TXN Ola cab,Transport,Ola cab
+POS fuel station,Transport,fuel station
+CARD fuel station,Transport,fuel station
+ONLINE fuel station,Transport,fuel station
+TXN fuel station,Transport,fuel station
+POS petrol pump,Transport,petrol pump
+CARD petrol pump,Transport,petrol pump
+ONLINE petrol pump,Transport,petrol pump
+TXN petrol pump,Transport,petrol pump
+POS metro ticket,Transport,metro ticket
+CARD metro ticket,Transport,metro ticket
+ONLINE metro ticket,Transport,metro ticket
+TXN metro ticket,Transport,metro ticket
+POS taxi fare,Transport,taxi fare
+CARD taxi fare,Transport,taxi fare
+ONLINE taxi fare,Transport,taxi fare
+TXN taxi fare,Transport,taxi fare
+POS monthly rent,Rent,monthly rent
+CARD monthly rent,Rent,monthly rent
+ONLINE monthly rent,Rent,monthly rent
+TXN monthly rent,Rent,monthly rent
+POS landlord payment,Rent,landlord payment
+CARD landlord payment,Rent,landlord payment
+ONLINE landlord payment,Rent,landlord payment
+TXN landlord payment,Rent,landlord payment
+POS lease installment,Rent,lease installment
+CARD lease installment,Rent,lease installment
+ONLINE lease installment,Rent,lease installment
+TXN lease installment,Rent,lease installment
+POS apartment rent,Rent,apartment rent
+CARD apartment rent,Rent,apartment rent
+ONLINE apartment rent,Rent,apartment rent
+TXN apartment rent,Rent,apartment rent
+POS house rent,Rent,house rent
+CARD house rent,Rent,house rent
+ONLINE house rent,Rent,house rent
+TXN house rent,Rent,house rent
+POS property lease,Rent,property lease
+CARD property lease,Rent,property lease
+ONLINE property lease,Rent,property lease
+TXN property lease,Rent,property lease
+POS bank charge,Fees & charges,bank charge
+CARD bank charge,Fees & charges,bank charge
+ONLINE bank charge,Fees & charges,bank charge
+TXN bank charge,Fees & charges,bank charge
+POS service fee,Fees & charges,service fee
+CARD service fee,Fees & charges,service fee
+ONLINE service fee,Fees & charges,service fee
+TXN service fee,Fees & charges,service fee
+POS annual fee,Fees & charges,annual fee
+CARD annual fee,Fees & charges,annual fee
+ONLINE annual fee,Fees & charges,annual fee
+TXN annual fee,Fees & charges,annual fee
+POS penalty charge,Fees & charges,penalty charge
+CARD penalty charge,Fees & charges,penalty charge
+ONLINE penalty charge,Fees & charges,penalty charge
+TXN penalty charge,Fees & charges,penalty charge
+POS GST charge,Fees & charges,GST charge
+CARD GST charge,Fees & charges,GST charge
+ONLINE GST charge,Fees & charges,GST charge
+TXN GST charge,Fees & charges,GST charge
+POS account fee,Fees & charges,account fee
+CARD account fee,Fees & charges,account fee
+ONLINE account fee,Fees & charges,account fee
+TXN account fee,Fees & charges,account fee
+POS interest credit,Interest,interest credit
+CARD interest credit,Interest,interest credit
+ONLINE interest credit,Interest,interest credit
+TXN interest credit,Interest,interest credit
+POS savings interest,Interest,savings interest
+CARD savings interest,Interest,savings interest
+ONLINE savings interest,Interest,savings interest
+TXN savings interest,Interest,savings interest
+POS int. paid,Interest,int. paid
+CARD int. paid,Interest,int. paid
+ONLINE int. paid,Interest,int. paid
+TXN int. paid,Interest,int. paid
+POS deposit interest,Interest,deposit interest
+CARD deposit interest,Interest,deposit interest
+ONLINE deposit interest,Interest,deposit interest
+TXN deposit interest,Interest,deposit interest
+POS interest payout,Interest,interest payout
+CARD interest payout,Interest,interest payout
+ONLINE interest payout,Interest,interest payout
+TXN interest payout,Interest,interest payout
+POS monthly interest,Interest,monthly interest
+CARD monthly interest,Interest,monthly interest
+ONLINE monthly interest,Interest,monthly interest
+TXN monthly interest,Interest,monthly interest
+POS pharmacy purchase,Healthcare,pharmacy purchase
+CARD pharmacy purchase,Healthcare,pharmacy purchase
+ONLINE pharmacy purchase,Healthcare,pharmacy purchase
+TXN pharmacy purchase,Healthcare,pharmacy purchase
+POS hospital bill,Healthcare,hospital bill
+CARD hospital bill,Healthcare,hospital bill
+ONLINE hospital bill,Healthcare,hospital bill
+TXN hospital bill,Healthcare,hospital bill
+POS clinic fee,Healthcare,clinic fee
+CARD clinic fee,Healthcare,clinic fee
+ONLINE clinic fee,Healthcare,clinic fee
+TXN clinic fee,Healthcare,clinic fee
+POS medical store,Healthcare,medical store
+CARD medical store,Healthcare,medical store
+ONLINE medical store,Healthcare,medical store
+TXN medical store,Healthcare,medical store
+POS healthcare clinic,Healthcare,healthcare clinic
+CARD healthcare clinic,Healthcare,healthcare clinic
+ONLINE healthcare clinic,Healthcare,healthcare clinic
+TXN healthcare clinic,Healthcare,healthcare clinic
+POS pharmacy order,Healthcare,pharmacy order
+CARD pharmacy order,Healthcare,pharmacy order
+ONLINE pharmacy order,Healthcare,pharmacy order
+TXN pharmacy order,Healthcare,pharmacy order

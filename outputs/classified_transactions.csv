@@ -1,0 +1,15 @@
+date,description,debit,credit,balance,page,balance_check,account_holder,account_number,ifsc,category,classification_method,category_confidence
+2026-04-01,Opening salary credit,,50000.0,50000.0,1,,Asha Rao,123456789012,DEMO0123456,Salary,rule,1.0
+2026-04-02,Freshmart grocery,1250.0,,48750.0,1,,Asha Rao,123456789012,DEMO0123456,Groceries,rule,1.0
+2026-04-03,UPI transfer to friend,2000.0,,46750.0,1,,Asha Rao,123456789012,DEMO0123456,Transfer,rule,1.0
+2026-04-04,Interest credit,,25.0,46775.0,1,,Asha Rao,123456789012,DEMO0123456,Interest,rule,1.0
+2026-04-05,Electricity bill,875.0,,45900.0,1,,Asha Rao,123456789012,DEMO0123456,Utilities,rule,1.0
+2026-04-06,ATM cash withdrawal,3000.0,,42900.0,1,,Asha Rao,123456789012,DEMO0123456,Cash withdrawal,rule,1.0
+2026-04-07,Cafe Mosaic,450.0,,42450.0,1,,Asha Rao,123456789012,DEMO0123456,Food & dining,rule,1.0
+2026-04-08,Refund from vendor,,500.0,42950.0,1,,Asha Rao,123456789012,DEMO0123456,Review,low confidence,0.11
+2026-05-01,Northstar salary,,60000.0,60000.0,1,,Asha Rao,123456789012,DEMO0123456,Salary,rule,1.0
+2026-05-02,Monthly rent,15000.0,,45000.0,1,,Asha Rao,123456789012,DEMO0123456,Rent,rule,1.0
+2026-05-03,Uber ride,420.0,,44580.0,1,,Asha Rao,123456789012,DEMO0123456,Transport,rule,1.0
+2026-05-04,Amazon marketplace,2100.0,,42480.0,1,,Asha Rao,123456789012,DEMO0123456,Shopping,rule,1.0
+2026-05-05,Medical store purchase,650.0,,41830.0,1,,Asha Rao,123456789012,DEMO0123456,Healthcare,rule,1.0
+2026-05-06,Bank service fee,50.0,,41780.0,1,,Asha Rao,123456789012,DEMO0123456,Fees & charges,rule,1.0
